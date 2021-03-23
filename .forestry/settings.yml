@@ -8,10 +8,6 @@ sections:
   label: Home
 - type: heading
   label: Hexa Global
-- type: document
-  path: FORESTRY-README.md
-  label: Welcome - First Steps
-  read_only: true
 - type: jekyll-posts
   label: Posts
   create: all
